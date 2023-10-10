@@ -1,0 +1,14 @@
+Route: POST /wp-json/wp/v2/reservations
+Basic Authentication
+
+JSON Body:
+
+{
+    "title": "Test3",
+    "content": "",
+    "status": "publish",
+    "reservation-status": "Pending Reservation"
+}
+
+
+
