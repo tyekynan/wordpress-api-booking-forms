@@ -1,5 +1,5 @@
 <?php
-//Located in the functions.php file of my theme folder.
+//Located in /wp-content/themes/hello-elementor/functions.php.
 add_action('rest_api_init', function() {
 
     $object_type = 'post';

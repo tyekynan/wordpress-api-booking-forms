@@ -1,3 +1,5 @@
+This is for a CPT created using JetEngine
+
 Route: POST /wp-json/wp/v2/reservations
 Basic Authentication
 
